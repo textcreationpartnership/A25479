@@ -1,0 +1,436 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anniversary ode on His Sacred Majesties inauguration, in Latin and English From the fleet, under the generous jurisdiction of Richard Manlove Esq; the worthy warden thereof. Licensed, May 27, 1686. Rob. Midgley.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25479</idno>
+            <idno type="STC">Wing A3240A</idno>
+            <idno type="STC">ESTC R214862</idno>
+            <idno type="EEBO-CITATION">99826918</idno>
+            <idno type="PROQUEST">99826918</idno>
+            <idno type="VID">31329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1881:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anniversary ode on His Sacred Majesties inauguration, in Latin and English From the fleet, under the generous jurisdiction of Richard Manlove Esq; the worthy warden thereof. Licensed, May 27, 1686. Rob. Midgley.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31329:1"/>
+            <pb facs="tcp:31329:1" rendition="simple:additions"/>
+            <p>The Anniverſary ODE ON HIS Sacred Majeſties INAUGURATION, IN <hi>Latin and Engliſh.</hi>
+            </p>
+            <p>From the <hi>FLEET,</hi> 
+               <g ref="char:V">Ʋ</g>nder the Generous Juriſdiction of <hi>RICHARD MANLOVE</hi> Eſq; the Worthy Warden thereof.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>May 27, 1686.</date>
+                           </dateline>
+                           <signed>ROB. MIDGLEY.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Jones.</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb n="2" facs="tcp:31329:2"/>
+            <div xml:lang="lat" type="version">
+               <head>ODE Sancti GEORGII</head>
+               <opener>
+                  <dateline>
+                     <date>Die Decantata, Aprilis 23. 1686.</date>
+                  </dateline>
+               </opener>
+               <lg>
+                  <head>1.</head>
+                  <l>VIRI ſub utroque Globo,</l>
+                  <l>Terrae &amp; cujuſcunque Gentes</l>
+                  <l>Concordes elevate mentes,</l>
+                  <l>Et Gratulemini <hi>JACOBO.</hi>
+                  </l>
+                  <lg>
+                     <l>Priorem <hi>Quo,</hi> non habet Mundus,</l>
+                     <l>
+                        <hi>Honorum</hi> Primus Hic eſt fundus,</l>
+                     <l>
+                        <hi>JACOB<g ref="char:V">Ʋ</g>S</hi> Nomine Secundus.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>Gaudete Reges Foederati!</l>
+                  <l>Tuba Sonet, ac Tormentum,</l>
+                  <l>Et omne fiat Argumentum</l>
+                  <l>In Laudem Regis Coronati.</l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>
+                     <hi>Gallus</hi> gaudeat, ac <hi>Iberus;</hi>
+                  </l>
+                  <l>
+                     <hi>Danus,</hi> &amp; <hi>Polona</hi> Pubes:</l>
+                  <l>Triſtitiae ſerenent nubes</l>
+                  <l>Nobilitas, Angluſque Clerus.</l>
+               </lg>
+               <lg>
+                  <head>4.</head>
+                  <l>
+                     <hi>Hibernus</hi> indies accreſcat,</l>
+                  <l>Et quum Temperabit Lyram</l>
+                  <pb n="4" facs="tcp:31329:3"/>
+                  <l> 
+                     <hi>Scotus</hi> Leo leniat Iram,</l>
+                  <l>Carduuſque <hi>Roſâ</hi> coaleſcat.</l>
+               </lg>
+               <lg>
+                  <head>5.</head>
+                  <l>
+                     <hi>Thameſi</hi> concurrit <hi>Tiber,</hi>
+                  </l>
+                  <l>
+                     <hi>Europae</hi> Magnae Mercatorum</l>
+                  <l>
+                     <hi>Londinum</hi> ſtat commune Forum,</l>
+                  <l>Sit homo Verna, ſive Liber.</l>
+               </lg>
+               <lg>
+                  <head>6.</head>
+                  <l>
+                     <hi>Olyſſiponae Luſitanus</hi>
+                  </l>
+                  <l>Liberè nobiſcum miſceat</l>
+                  <l>Cor, ac Merces quales liceat,</l>
+                  <l>Et Regis Oſculetur Manus.</l>
+               </lg>
+               <lg>
+                  <head>7.</head>
+                  <l>Quid ambigitis <hi>Batavi?</hi>
+                  </l>
+                  <l>Calamitas vos quoties urget,</l>
+                  <l>Soſpitator Is aſſurget</l>
+                  <l>Cui Patris Os, &amp; Mens eſt Avi.</l>
+               </lg>
+               <lg>
+                  <head>8.</head>
+                  <l>Tanti eſt, noſter Imperator;</l>
+                  <l>Princeps oculatae Mentis,</l>
+                  <l>
+                     <hi>Martis</hi> Terror, ac <hi>Tridentis</hi>
+                  </l>
+                  <l>Terrâ, &amp; Mari Triumphator.</l>
+               </lg>
+               <lg>
+                  <head>9.</head>
+                  <l>Cives Portas aperite,</l>
+                  <l>Veſtrum &amp; ſalutate Regem,</l>
+                  <l>Qui <hi>Muſas</hi> &amp; tuetur <hi>Legem,</hi>
+                  </l>
+                  <l>
+                     <hi>Grantae</hi> Praes, &amp; <hi>Belloſitae.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:31329:4"/>
+                  <head>10.</head>
+                  <l>Dies Iſte Glorioſus;</l>
+                  <l>
+                     <hi>Hiſpania</hi> Fontes vina fundant;</l>
+                  <l>Dum <hi>Rubro</hi> Latices redundant,</l>
+                  <l>Sit nemo Moeſtus, aut Moroſus.</l>
+               </lg>
+               <lg>
+                  <head>11.</head>
+                  <l>
+                     <hi>Angliae</hi> ſudum rarò certius,</l>
+                  <l>Aut Serenum ſic affulſit,</l>
+                  <l>
+                     <hi>Muſicâ</hi> tàm nos demulſit</l>
+                  <l>Viceſſimus <hi>Aprilis</hi> Tertius.</l>
+               </lg>
+               <lg>
+                  <head>12.</head>
+                  <l>
+                     <hi>GEORGI<g ref="char:V">Ʋ</g>S</hi> heic <hi>JACOBO</hi> junctus;</l>
+                  <l>Ambo Genii Tutelares</l>
+                  <l>
+                     <hi>Angliae</hi> defendunt Lares;</l>
+                  <l>
+                     <hi>Georgius</hi> olim fato functus,</l>
+                  <l>Et Praeſens <hi>DEI</hi> Princeps <hi>
+                        <g ref="char:V">Ʋ</g>NCT<g ref="char:V">Ʋ</g>S.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>13.</head>
+                  <l>Unanimes <hi>Britanni</hi> State,</l>
+                  <l>
+                     <hi>Boreae</hi> Sidus, &amp; <hi>Occiduum,</hi>
+                  </l>
+                  <l>State Corpus Individuum,</l>
+                  <l>Et Laudem <hi>DEO</hi> Jubilate.</l>
+                  <lg>
+                     <l>Hic Hic eſt cui ſuccumbet Mundus,</l>
+                     <l>Per Quem <hi>JACOB<g ref="char:V">Ʋ</g>S</hi> Fons, &amp; Fundus</l>
+                     <l>
+                        <hi>Honorum,</hi> nulli ſtat Secundus.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="version">
+               <pb n="3" facs="tcp:31329:2" rendition="simple:additions"/>
+               <head>The Song ſung on St. George's Day, &amp;c.</head>
+               <lg>
+                  <head>1.</head>
+                  <l>LET every Kingdom, Camp and Court,</l>
+                  <l>Whoſe Natives to this Realm reſort,</l>
+                  <l>Congratulate That Prince, whoſe Name's</l>
+                  <l>(As His Bleſt <hi>Grandſire</hi>'s was) King <hi>JAMES;</hi>
+                  </l>
+                  <lg>
+                     <l>Second by Name, but in the Throne,</l>
+                     <l>And Orb of <hi>Honour,</hi> ſhines Alone,</l>
+                     <l>And There ſits Second unto None.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>Let all Confederate <hi>Kings</hi> and <hi>Powers,</hi>
+                  </l>
+                  <l>Whoſe Kingdoms are at Peace with Ours,</l>
+                  <l>Rejoyce; Whilſt Trumps and Cannons Ring,</l>
+                  <l>The Loud <hi>Elogiums</hi> of Our KING.</l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>Let <hi>France</hi> and <hi>Spain</hi> disband all Fears;</l>
+                  <l>With <hi>Denmarks,</hi> and great <hi>Polands</hi> Peers;</l>
+                  <l>Whilſt <hi>Nobles,</hi> with the <hi>Clergy,</hi> clear</l>
+                  <l>All Clouds ariſing in Our <hi>Sphear.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>4.</head>
+                  <l>When <hi>Ireland</hi> Tunes his Charming Lyre,</l>
+                  <l>Stout <hi>Scotland</hi>'s Lyon doth retire,</l>
+                  <pb n="5" facs="tcp:31329:3" rendition="simple:additions"/>
+                  <l> And her Pungent Thiſtles cloſe</l>
+                  <l>In <g ref="char:V">Ʋ</g>nion with our <hi>Engliſh Roſe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>5.</head>
+                  <l>
+                     <hi>Thames</hi> and <hi>Tiber</hi> both Combine;</l>
+                  <l>And <hi>Londons</hi> made the Magazine</l>
+                  <l>Of Merchandize; in each Degree,</l>
+                  <l>Where Men do meet, both Bond, and Free.</l>
+               </lg>
+               <lg>
+                  <head>6.</head>
+                  <l>
+                     <hi>Lisbond</hi>'s Rich, and Royal Pile,</l>
+                  <l>Freely Traffiques with Our Iſle</l>
+                  <l>In moſt Commodities of the Land;</l>
+                  <l>And Joys to Kiſs Our <hi>Soveraign</hi>'s Hand.</l>
+               </lg>
+               <lg>
+                  <head>7.</head>
+                  <l>
+                     <hi>Belgia</hi> then no more diſtruſt</l>
+                  <l>A Prince, whoſe Prudence can Adjuſt</l>
+                  <l>All Diff'rences, in whom you'll find</l>
+                  <l>His <hi>Father</hi>'s Face, and <hi>Grandſire</hi>'s Mind.</l>
+               </lg>
+               <lg>
+                  <head>8.</head>
+                  <l>So Qualifi'd is He to Reign,</l>
+                  <l>Whoſe Active Body, and Strong Brain,</l>
+                  <l>Puts <hi>Mars</hi> and <hi>Neptune</hi> to the ſtand,</l>
+                  <l>He Riding <hi>Lord</hi> by <hi>Sea</hi> and <hi>Land.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>9.</head>
+                  <l>Ye <hi>Citizens,</hi> ſet wide Your Gates</l>
+                  <l>To Him who is the THREE ESTATES</l>
+                  <l>Sole Prop; A Prince of Deep Diſcerning,</l>
+                  <l>Pillar both of <hi>Law</hi> and <hi>Learning.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:31329:4"/>
+                  <head>10.</head>
+                  <l>This is a Day of <hi>Jubilee;</hi>
+                  </l>
+                  <l>Let all be Debonair, and free</l>
+                  <l>To Quaff what <hi>London</hi>'s Conduits carry,</l>
+                  <l>
+                     <hi>Burdeux</hi> Wine, or Old <hi>Canary.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>11.</head>
+                  <l>Muſick ne'er was better heard</l>
+                  <l>On ſuch an <hi>April</hi>'s Twenty Third,</l>
+                  <l>Than This, where <hi>Air</hi> and <hi>Earth</hi> conſpire</l>
+                  <l>In Conſort to make up the Quire.</l>
+               </lg>
+               <lg>
+                  <head>12.</head>
+                  <l>For <hi>GEORGE</hi> and <hi>JAMES</hi> Our Tutelary</l>
+                  <l>Guardians, joyntly keep and carry</l>
+                  <l>A Correſpondence, <hi>GEORGE</hi> Tranſlated</l>
+                  <l>Long ſince to Bliſs, and there Inſtated;</l>
+                  <l>And <hi>JAMES</hi> by Heaven's Decree appointed</l>
+                  <l>
+                     <hi>Britain</hi>'s Ruler, <hi>GOD</hi>'s ANOINTED.</l>
+               </lg>
+               <lg>
+                  <head>13.</head>
+                  <l>To Him let <hi>Britain</hi>'s North and South,</l>
+                  <l>Give Praiſe with Mutual Heart and Mouth,</l>
+                  <l>And cleave in Love and true Communion</l>
+                  <l>To <hi>Him,</hi> who is the GOD of <g ref="char:V">Ʋ</g>nion.</l>
+                  <lg>
+                     <l>'Tis HE, 'Tis HE that can alone</l>
+                     <l>Guard and ſupport Great <hi>JAMES</hi> his Throne,</l>
+                     <l>Who ſits here SECOND unto None.</l>
+                  </lg>
+               </lg>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb n="8" facs="tcp:31329:5"/>
+            <div xml:lang="lat" type="version">
+               <head>Cantilenam Concludamus cum Authoris Actione Gratiarum poſt Prandium.</head>
+               <l>GRates <hi>DEO</hi> Tibi damus</l>
+               <l>Pro Donis Veſtris; &amp; oramus</l>
+               <l>Ut Rex <hi>JACOBUS</hi> diu vigeat,</l>
+               <l>Nec <hi>Britannus</hi> Orbs indigeat</l>
+               <l>Rege Nato de <hi>JACOBIS,</hi>
+               </l>
+               <l>Donec adſit <hi>SHILO</hi> Nobis. <hi>Amen.</hi>
+               </l>
+            </div>
+            <div type="version">
+               <head>We will conclude this Gratulatory ODE with the Author's <hi>Uſual Grace</hi> after Dinner.</head>
+               <l>LORD, Give us humble and right thankful Hearts</l>
+               <l>For all the Bleſſings which thy Love Imparts:</l>
+               <l>And-Bleſs our Sacred Soveraign King <hi>JAMES,</hi>
+               </l>
+               <l>Who of His Royal Line, and <hi>Chriſtian</hi> Name's</l>
+               <l>Fourth Monarch of <hi>Great Britain; Scotlands</hi> Seventh,</l>
+               <l>King of both Realms th' <hi>Hundred</hi> and <hi>Eleventh:</hi>
+               </l>
+               <l>LORD Grant that from <hi>His Seed</hi> there ne'er want One</l>
+               <l>Till <hi>SHILO</hi> come, to ſit upon the Throne. <hi>Amen.</hi>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31329:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
